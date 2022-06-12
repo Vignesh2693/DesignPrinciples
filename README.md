@@ -1,4 +1,4 @@
-# DesignPrinciples
+# SOLID DesignPrinciples
 Implemented a different types of Bird classes to define SOLID principles
 Five Types of birds -Pigeon,Sparrow,Crow,Ostrich,Penguin
 
